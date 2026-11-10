@@ -80,15 +80,15 @@ These issues can increase processing time and affect vendor relationships.
 
 ## 7. Key Performance Indicators (KPIs)
 
-| KPI                     | Measurement                                         |
-| ----------------------- | --------------------------------------------------- |
-| Total Invoices          | Count of registered invoices                        |
-| Pending Invoices        | Invoices awaiting action                            |
-| Average Processing Time | Average internal processing days                    |
-| Overdue Invoices        | Invoices past their contractual due date and unpaid |
-| On-Time Payment Rate    | Percentage paid on or before due date               |
-| Duplicate Invoices      | Count of flagged duplicates                         |
-| Target Achievement      | Average processing time against 6-day target        |
+| KPI                     | Measurement                                                                            |
+| ----------------------- | -------------------------------------------------------------------------------------- |
+| Total Invoices          | Count of registered invoices                                                           |
+| Pending Invoices        | Invoices awaiting action                                                               |
+| Average Processing Time | Calendar days from receipt of a complete invoice to approved and payment-ready status. |
+| Overdue Invoices        | Invoices past their contractual due date and unpaid                                    |
+| On-Time Payment Rate    | Percentage paid on or before due date                                                  |
+| Duplicate Invoices      | Count of flagged duplicates                                                            |
+| Target Achievement      | Average processing time against 6-day target                                           |
 
 ## 8. Success Criteria
 
