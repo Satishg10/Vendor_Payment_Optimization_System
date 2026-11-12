@@ -1,0 +1,151 @@
+vendor_id,vendor_name,vendor_category,gstin,contact_email,city,state,payment_terms,vendor_status,registration_date
+VND-0001,Vertex Enterprises 001,IT Services,SIM-GST-0001,vertex.enterprises.001@example.net,Hyderabad,Telangana,Net 30,Active,2026-01-31
+VND-0002,Innovative Enterprises 002,Office Supplies,SIM-GST-0002,innovative.enterprises.002@example.net,Delhi,Delhi,Net 15,Active,2026-05-05
+VND-0003,Reliable Services 003,IT Services,SIM-GST-0003,reliable.services.003@example.net,Pune,Maharashtra,Net 60,Active,2024-05-07
+VND-0004,NextGen Technologies 004,IT Services,SIM-GST-0004,nextgen.technologies.004@example.com,Delhi,Delhi,Net 45,Inactive,2025-12-29
+VND-0005,Reliable Associates 005,Office Supplies,SIM-GST-0005,reliable.associates.005@example.com,Delhi,Delhi,Net 15,Inactive,2022-02-11
+VND-0006,Dynamic Consultants 006,Raw Materials,SIM-GST-0006,dynamic.consultants.006@example.com,Kochi,Kerala,Net 15,Inactive,2026-06-04
+VND-0007,Supreme Technologies 007,Marketing,SIM-GST-0007,supreme.technologies.007@example.net,Pune,Maharashtra,Net 15,Active,2023-02-27
+VND-0008,Reliable Technologies 008,Office Supplies,SIM-GST-0008,reliable.technologies.008@example.com,Mysuru,Karnataka,Net 60,Inactive,2024-04-28
+VND-0009,Vertex Associates 009,Logistics,SIM-GST-0009,vertex.associates.009@example.org,Chennai,Tamil Nadu,Net 30,Under Review,2025-05-15
+VND-0010,Innovative Enterprises 010,Logistics,SIM-GST-0010,innovative.enterprises.010@example.net,Pune,Maharashtra,Net 30,Inactive,2024-09-26
+VND-0011,United Traders 011,Facility Management,SIM-GST-0011,united.traders.011@example.net,Chennai,Tamil Nadu,Net 15,Active,2022-04-04
+VND-0012,Apex Associates 012,Consulting,SIM-GST-0012,apex.associates.012@example.org,Mysuru,Karnataka,Net 30,Under Review,2021-12-14
+VND-0013,Innovative Associates 013,Facility Management,SIM-GST-0013,innovative.associates.013@example.net,Kochi,Kerala,Net 60,Under Review,2024-04-17
+VND-0014,Prime Technologies 014,Logistics,SIM-GST-0014,prime.technologies.014@example.com,Ahmedabad,Gujarat,Net 45,Under Review,2023-08-03
+VND-0015,Smart Consultants 015,Consulting,SIM-GST-0015,smart.consultants.015@example.org,Pune,Maharashtra,Net 30,Under Review,2024-02-06
+VND-0016,Global Solutions 016,Office Supplies,SIM-GST-0016,global.solutions.016@example.com,Mumbai,Maharashtra,Net 60,Under Review,2026-07-05
+VND-0017,Smart Corporation 017,Equipment,SIM-GST-0017,smart.corporation.017@example.net,Hyderabad,Telangana,Net 15,Under Review,2022-10-28
+VND-0018,Global Traders 018,Raw Materials,SIM-GST-0018,global.traders.018@example.net,Chennai,Tamil Nadu,Net 15,Inactive,2024-06-05
+VND-0019,Prime Systems 019,IT Services,SIM-GST-0019,prime.systems.019@example.net,Hyderabad,Telangana,Net 30,Under Review,2026-04-09
+VND-0020,Vertex Technologies 020,Facility Management,SIM-GST-0020,vertex.technologies.020@example.com,Chennai,Tamil Nadu,Net 30,Under Review,2022-07-02
+VND-0021,Supreme Solutions 021,Marketing,SIM-GST-0021,supreme.solutions.021@example.org,Bengaluru,Karnataka,Net 15,Inactive,2021-12-09
+VND-0022,United Services 022,IT Services,SIM-GST-0022,united.services.022@example.com,Jaipur,Rajasthan,Net 15,Active,2022-10-06
+VND-0023,Elite Enterprises 023,Logistics,SIM-GST-0023,elite.enterprises.023@example.com,Kochi,Kerala,Net 30,Inactive,2023-11-28
+VND-0024,NextGen Corporation 024,Facility Management,SIM-GST-0024,nextgen.corporation.024@example.net,Pune,Maharashtra,Net 45,Inactive,2023-02-06
+VND-0025,Vertex Associates 025,Equipment,SIM-GST-0025,vertex.associates.025@example.net,Kochi,Kerala,Net 15,Active,2025-08-09
+VND-0026,Global Associates 026,IT Services,SIM-GST-0026,global.associates.026@example.net,Ahmedabad,Gujarat,Net 30,Under Review,2025-08-18
+VND-0027,Apex Enterprises 027,IT Services,SIM-GST-0027,apex.enterprises.027@example.com,Mysuru,Karnataka,Net 15,Inactive,2026-06-20
+VND-0028,Supreme Services 028,Raw Materials,SIM-GST-0028,supreme.services.028@example.net,Kochi,Kerala,Net 30,Under Review,2026-02-15
+VND-0029,Innovative Consultants 029,Equipment,SIM-GST-0029,innovative.consultants.029@example.com,Kochi,Kerala,Net 60,Active,2026-05-03
+VND-0030,Global Corporation 030,Marketing,SIM-GST-0030,global.corporation.030@example.org,Delhi,Delhi,Net 60,Under Review,2026-07-25
+VND-0031,Vertex Enterprises 031,IT Services,SIM-GST-0031,vertex.enterprises.031@example.org,Chennai,Tamil Nadu,Net 15,Active,2025-10-16
+VND-0032,Reliable Traders 032,Equipment,SIM-GST-0032,reliable.traders.032@example.com,Delhi,Delhi,Net 30,Inactive,2024-04-09
+VND-0033,Reliable Enterprises 033,Equipment,SIM-GST-0033,reliable.enterprises.033@example.net,Mysuru,Karnataka,Net 15,Under Review,2023-11-01
+VND-0034,Apex Enterprises 034,Facility Management,SIM-GST-0034,apex.enterprises.034@example.com,Delhi,Delhi,Net 60,Inactive,2025-09-01
+VND-0035,Smart Solutions 035,Logistics,SIM-GST-0035,smart.solutions.035@example.org,Bengaluru,Karnataka,Net 60,Inactive,2022-06-21
+VND-0036,Elite Technologies 036,Consulting,SIM-GST-0036,elite.technologies.036@example.net,Ahmedabad,Gujarat,Net 60,Active,2025-10-20
+VND-0037,United Services 037,IT Services,SIM-GST-0037,united.services.037@example.net,Ahmedabad,Gujarat,Net 15,Under Review,2025-02-08
+VND-0038,Apex Solutions 038,Equipment,SIM-GST-0038,apex.solutions.038@example.net,Ahmedabad,Gujarat,Net 30,Active,2024-01-07
+VND-0039,Global Industries 039,Office Supplies,SIM-GST-0039,global.industries.039@example.net,Mysuru,Karnataka,Net 30,Inactive,2026-03-12
+VND-0040,NextGen Services 040,IT Services,SIM-GST-0040,nextgen.services.040@example.net,Mysuru,Karnataka,Net 60,Under Review,2023-08-05
+VND-0041,NextGen Traders 041,Marketing,SIM-GST-0041,nextgen.traders.041@example.org,Pune,Maharashtra,Net 45,Active,2025-05-18
+VND-0042,Smart Industries 042,Raw Materials,SIM-GST-0042,smart.industries.042@example.org,Chennai,Tamil Nadu,Net 15,Active,2024-04-18
+VND-0043,NextGen Consultants 043,Office Supplies,SIM-GST-0043,nextgen.consultants.043@example.com,Ahmedabad,Gujarat,Net 30,Under Review,2025-05-18
+VND-0044,Prime Associates 044,Office Supplies,SIM-GST-0044,prime.associates.044@example.com,Chennai,Tamil Nadu,Net 45,Active,2024-05-29
+VND-0045,Supreme Technologies 045,IT Services,SIM-GST-0045,supreme.technologies.045@example.net,Ahmedabad,Gujarat,Net 45,Under Review,2026-04-14
+VND-0046,Prime Technologies 046,Office Supplies,SIM-GST-0046,prime.technologies.046@example.com,Ahmedabad,Gujarat,Net 30,Inactive,2025-04-14
+VND-0047,NextGen Services 047,Marketing,SIM-GST-0047,nextgen.services.047@example.com,Hyderabad,Telangana,Net 60,Inactive,2022-02-14
+VND-0048,Apex Enterprises 048,Consulting,SIM-GST-0048,apex.enterprises.048@example.org,Bengaluru,Karnataka,Net 15,Inactive,2022-07-17
+VND-0049,Prime Technologies 049,Logistics,SIM-GST-0049,prime.technologies.049@example.net,Kochi,Kerala,Net 60,Under Review,2026-10-24
+VND-0050,Global Enterprises 050,Logistics,SIM-GST-0050,global.enterprises.050@example.net,Bengaluru,Karnataka,Net 45,Under Review,2023-10-08
+VND-0051,Prime Corporation 051,Logistics,SIM-GST-0051,prime.corporation.051@example.com,Hyderabad,Telangana,Net 45,Active,2024-11-10
+VND-0052,Reliable Services 052,Office Supplies,SIM-GST-0052,reliable.services.052@example.org,Ahmedabad,Gujarat,Net 60,Under Review,2022-08-31
+VND-0053,Prime Services 053,Logistics,SIM-GST-0053,prime.services.053@example.com,Delhi,Delhi,Net 15,Active,2022-09-26
+VND-0054,Dynamic Corporation 054,Facility Management,SIM-GST-0054,dynamic.corporation.054@example.org,Mumbai,Maharashtra,Net 15,Inactive,2021-12-22
+VND-0055,Apex Systems 055,Facility Management,SIM-GST-0055,apex.systems.055@example.com,Kochi,Kerala,Net 45,Inactive,2022-04-07
+VND-0056,Reliable Services 056,IT Services,SIM-GST-0056,reliable.services.056@example.net,Pune,Maharashtra,Net 60,Inactive,2025-04-21
+VND-0057,Global Technologies 057,Marketing,SIM-GST-0057,global.technologies.057@example.net,Ahmedabad,Gujarat,Net 60,Under Review,2022-02-19
+VND-0058,Supreme Associates 058,IT Services,SIM-GST-0058,supreme.associates.058@example.com,Hyderabad,Telangana,Net 30,Under Review,2025-05-18
+VND-0059,Apex Enterprises 059,Consulting,SIM-GST-0059,apex.enterprises.059@example.org,Chennai,Tamil Nadu,Net 60,Under Review,2023-12-31
+VND-0060,Global Corporation 060,Facility Management,SIM-GST-0060,global.corporation.060@example.org,Bengaluru,Karnataka,Net 60,Active,2023-12-14
+VND-0061,Supreme Services 061,Marketing,SIM-GST-0061,supreme.services.061@example.org,Mysuru,Karnataka,Net 45,Under Review,2025-02-08
+VND-0062,Vertex Enterprises 062,Raw Materials,SIM-GST-0062,vertex.enterprises.062@example.net,Hyderabad,Telangana,Net 60,Inactive,2024-08-10
+VND-0063,Innovative Technologies 063,Logistics,SIM-GST-0063,innovative.technologies.063@example.com,Delhi,Delhi,Net 60,Under Review,2022-09-02
+VND-0064,Prime Consultants 064,Raw Materials,SIM-GST-0064,prime.consultants.064@example.org,Ahmedabad,Gujarat,Net 15,Inactive,2025-04-04
+VND-0065,Reliable Corporation 065,Marketing,SIM-GST-0065,reliable.corporation.065@example.org,Kochi,Kerala,Net 60,Under Review,2025-09-01
+VND-0066,Supreme Systems 066,Logistics,SIM-GST-0066,supreme.systems.066@example.net,Mysuru,Karnataka,Net 45,Under Review,2023-02-22
+VND-0067,Vertex Consultants 067,Marketing,SIM-GST-0067,vertex.consultants.067@example.com,Pune,Maharashtra,Net 45,Active,2022-05-06
+VND-0068,Reliable Industries 068,IT Services,SIM-GST-0068,reliable.industries.068@example.com,Pune,Maharashtra,Net 60,Under Review,2022-02-06
+VND-0069,Global Systems 069,Consulting,SIM-GST-0069,global.systems.069@example.net,Jaipur,Rajasthan,Net 30,Under Review,2022-12-17
+VND-0070,Smart Systems 070,Consulting,SIM-GST-0070,smart.systems.070@example.com,Mumbai,Maharashtra,Net 15,Active,2022-07-02
+VND-0071,Smart Services 071,Logistics,SIM-GST-0071,smart.services.071@example.net,Ahmedabad,Gujarat,Net 60,Active,2023-09-28
+VND-0072,Reliable Enterprises 072,Equipment,SIM-GST-0072,reliable.enterprises.072@example.com,Kochi,Kerala,Net 45,Inactive,2023-06-07
+VND-0073,Innovative Traders 073,Consulting,SIM-GST-0073,innovative.traders.073@example.net,Kochi,Kerala,Net 30,Under Review,2022-01-13
+VND-0074,Elite Systems 074,Raw Materials,SIM-GST-0074,elite.systems.074@example.com,Hyderabad,Telangana,Net 60,Under Review,2025-07-11
+VND-0075,United Systems 075,Office Supplies,SIM-GST-0075,united.systems.075@example.net,Hyderabad,Telangana,Net 30,Inactive,2024-12-25
+VND-0076,Dynamic Traders 076,Office Supplies,SIM-GST-0076,dynamic.traders.076@example.com,Mumbai,Maharashtra,Net 30,Inactive,2022-12-22
+VND-0077,Prime Services 077,Office Supplies,SIM-GST-0077,prime.services.077@example.org,Delhi,Delhi,Net 45,Under Review,2024-04-02
+VND-0078,Smart Solutions 078,Facility Management,SIM-GST-0078,smart.solutions.078@example.org,Delhi,Delhi,Net 15,Under Review,2024-09-24
+VND-0079,Elite Solutions 079,Marketing,SIM-GST-0079,elite.solutions.079@example.org,Delhi,Delhi,Net 60,Under Review,2022-09-04
+VND-0080,Innovative Traders 080,Facility Management,SIM-GST-0080,innovative.traders.080@example.org,Pune,Maharashtra,Net 45,Inactive,2024-02-22
+VND-0081,Apex Corporation 081,Marketing,SIM-GST-0081,apex.corporation.081@example.net,Delhi,Delhi,Net 30,Inactive,2026-02-24
+VND-0082,NextGen Traders 082,IT Services,SIM-GST-0082,nextgen.traders.082@example.org,Jaipur,Rajasthan,Net 15,Active,2023-04-06
+VND-0083,Smart Industries 083,Equipment,SIM-GST-0083,smart.industries.083@example.com,Bengaluru,Karnataka,Net 45,Inactive,2025-01-11
+VND-0084,Reliable Systems 084,Marketing,SIM-GST-0084,reliable.systems.084@example.org,Delhi,Delhi,Net 45,Inactive,2025-06-14
+VND-0085,Global Systems 085,IT Services,SIM-GST-0085,global.systems.085@example.net,Ahmedabad,Gujarat,Net 15,Inactive,2025-08-10
+VND-0086,Vertex Enterprises 086,IT Services,SIM-GST-0086,vertex.enterprises.086@example.com,Pune,Maharashtra,Net 30,Active,2023-05-20
+VND-0087,Prime Services 087,Logistics,SIM-GST-0087,prime.services.087@example.org,Mysuru,Karnataka,Net 30,Inactive,2022-12-11
+VND-0088,United Associates 088,Logistics,SIM-GST-0088,united.associates.088@example.net,Jaipur,Rajasthan,Net 15,Active,2025-02-13
+VND-0089,Global Consultants 089,IT Services,SIM-GST-0089,global.consultants.089@example.org,Jaipur,Rajasthan,Net 60,Inactive,2022-11-09
+VND-0090,Reliable Enterprises 090,Facility Management,SIM-GST-0090,reliable.enterprises.090@example.com,Hyderabad,Telangana,Net 15,Under Review,2022-06-24
+VND-0091,Apex Associates 091,Consulting,SIM-GST-0091,apex.associates.091@example.net,Chennai,Tamil Nadu,Net 15,Under Review,2023-03-27
+VND-0092,Dynamic Solutions 092,Consulting,SIM-GST-0092,dynamic.solutions.092@example.org,Mysuru,Karnataka,Net 60,Inactive,2023-04-21
+VND-0093,Elite Industries 093,Consulting,SIM-GST-0093,elite.industries.093@example.com,Ahmedabad,Gujarat,Net 45,Under Review,2022-05-02
+VND-0094,Supreme Systems 094,Equipment,SIM-GST-0094,supreme.systems.094@example.org,Jaipur,Rajasthan,Net 45,Inactive,2022-02-02
+VND-0095,Reliable Enterprises 095,Raw Materials,SIM-GST-0095,reliable.enterprises.095@example.org,Pune,Maharashtra,Net 60,Under Review,2023-06-12
+VND-0096,Vertex Corporation 096,Marketing,SIM-GST-0096,vertex.corporation.096@example.com,Kochi,Kerala,Net 45,Active,2024-02-18
+VND-0097,Reliable Associates 097,Raw Materials,SIM-GST-0097,reliable.associates.097@example.org,Hyderabad,Telangana,Net 45,Under Review,2026-10-23
+VND-0098,Supreme Services 098,Office Supplies,SIM-GST-0098,supreme.services.098@example.com,Delhi,Delhi,Net 60,Under Review,2022-08-13
+VND-0099,Reliable Systems 099,Equipment,SIM-GST-0099,reliable.systems.099@example.org,Bengaluru,Karnataka,Net 15,Inactive,2025-08-16
+VND-0100,Smart Services 100,Raw Materials,SIM-GST-0100,smart.services.100@example.net,Jaipur,Rajasthan,Net 45,Inactive,2023-10-06
+VND-0101,Supreme Associates 101,Consulting,SIM-GST-0101,supreme.associates.101@example.net,Ahmedabad,Gujarat,Net 45,Inactive,2022-12-04
+VND-0102,Elite Technologies 102,Raw Materials,SIM-GST-0102,elite.technologies.102@example.org,Pune,Maharashtra,Net 15,Under Review,2025-10-14
+VND-0103,Dynamic Enterprises 103,Logistics,SIM-GST-0103,dynamic.enterprises.103@example.com,Pune,Maharashtra,Net 60,Inactive,2022-10-21
+VND-0104,NextGen Traders 104,Raw Materials,SIM-GST-0104,nextgen.traders.104@example.com,Pune,Maharashtra,Net 45,Active,2024-11-03
+VND-0105,Prime Technologies 105,IT Services,SIM-GST-0105,prime.technologies.105@example.net,Ahmedabad,Gujarat,Net 30,Inactive,2026-08-11
+VND-0106,Apex Traders 106,Raw Materials,SIM-GST-0106,apex.traders.106@example.net,Mumbai,Maharashtra,Net 60,Active,2021-12-21
+VND-0107,Apex Consultants 107,Raw Materials,SIM-GST-0107,apex.consultants.107@example.org,Kochi,Kerala,Net 60,Inactive,2025-10-31
+VND-0108,Apex Technologies 108,Equipment,SIM-GST-0108,apex.technologies.108@example.com,Mysuru,Karnataka,Net 60,Inactive,2026-06-14
+VND-0109,NextGen Solutions 109,Logistics,SIM-GST-0109,nextgen.solutions.109@example.com,Jaipur,Rajasthan,Net 45,Active,2025-06-22
+VND-0110,Global Traders 110,Consulting,SIM-GST-0110,global.traders.110@example.net,Jaipur,Rajasthan,Net 30,Under Review,2024-09-24
+VND-0111,Elite Systems 111,Raw Materials,SIM-GST-0111,elite.systems.111@example.net,Delhi,Delhi,Net 45,Under Review,2023-05-21
+VND-0112,Apex Consultants 112,Office Supplies,SIM-GST-0112,apex.consultants.112@example.com,Pune,Maharashtra,Net 45,Under Review,2026-05-30
+VND-0113,Prime Services 113,Logistics,SIM-GST-0113,prime.services.113@example.net,Mysuru,Karnataka,Net 30,Active,2024-07-29
+VND-0114,Elite Consultants 114,Equipment,SIM-GST-0114,elite.consultants.114@example.org,Bengaluru,Karnataka,Net 30,Inactive,2022-11-26
+VND-0115,United Systems 115,Office Supplies,SIM-GST-0115,united.systems.115@example.net,Pune,Maharashtra,Net 45,Under Review,2023-07-24
+VND-0116,Vertex Services 116,Consulting,SIM-GST-0116,vertex.services.116@example.com,Ahmedabad,Gujarat,Net 30,Under Review,2026-01-11
+VND-0117,United Industries 117,Office Supplies,SIM-GST-0117,united.industries.117@example.com,Mumbai,Maharashtra,Net 45,Under Review,2022-09-01
+VND-0118,NextGen Technologies 118,Equipment,SIM-GST-0118,nextgen.technologies.118@example.com,Kochi,Kerala,Net 45,Under Review,2024-08-10
+VND-0119,United Traders 119,Equipment,SIM-GST-0119,united.traders.119@example.org,Mysuru,Karnataka,Net 15,Inactive,2022-09-30
+VND-0120,Dynamic Consultants 120,Raw Materials,SIM-GST-0120,dynamic.consultants.120@example.com,Mysuru,Karnataka,Net 30,Under Review,2022-03-06
+VND-0121,NextGen Consultants 121,IT Services,SIM-GST-0121,nextgen.consultants.121@example.net,Hyderabad,Telangana,Net 15,Active,2024-03-24
+VND-0122,Supreme Systems 122,Raw Materials,SIM-GST-0122,supreme.systems.122@example.com,Jaipur,Rajasthan,Net 60,Under Review,2022-04-20
+VND-0123,Elite Enterprises 123,Equipment,SIM-GST-0123,elite.enterprises.123@example.org,Delhi,Delhi,Net 45,Inactive,2023-02-09
+VND-0124,Global Industries 124,Marketing,SIM-GST-0124,global.industries.124@example.org,Kochi,Kerala,Net 45,Under Review,2024-08-14
+VND-0125,Supreme Solutions 125,Equipment,SIM-GST-0125,supreme.solutions.125@example.com,Chennai,Tamil Nadu,Net 45,Inactive,2026-03-20
+VND-0126,Smart Traders 126,IT Services,SIM-GST-0126,smart.traders.126@example.net,Ahmedabad,Gujarat,Net 60,Inactive,2026-07-24
+VND-0127,Reliable Traders 127,Marketing,SIM-GST-0127,reliable.traders.127@example.net,Kochi,Kerala,Net 60,Active,2025-09-22
+VND-0128,United Traders 128,Logistics,SIM-GST-0128,united.traders.128@example.org,Kochi,Kerala,Net 60,Active,2026-09-14
+VND-0129,Vertex Consultants 129,Facility Management,SIM-GST-0129,vertex.consultants.129@example.net,Mumbai,Maharashtra,Net 45,Under Review,2026-10-15
+VND-0130,Supreme Corporation 130,Office Supplies,SIM-GST-0130,supreme.corporation.130@example.com,Mysuru,Karnataka,Net 60,Active,2023-03-27
+VND-0131,Prime Systems 131,Raw Materials,SIM-GST-0131,prime.systems.131@example.net,Hyderabad,Telangana,Net 60,Inactive,2024-03-20
+VND-0132,Reliable Systems 132,Logistics,SIM-GST-0132,reliable.systems.132@example.org,Pune,Maharashtra,Net 30,Active,2025-04-26
+VND-0133,Smart Associates 133,Raw Materials,SIM-GST-0133,smart.associates.133@example.com,Hyderabad,Telangana,Net 45,Under Review,2023-08-13
+VND-0134,Vertex Systems 134,Logistics,SIM-GST-0134,vertex.systems.134@example.org,Ahmedabad,Gujarat,Net 60,Inactive,2025-01-01
+VND-0135,Supreme Traders 135,Consulting,SIM-GST-0135,supreme.traders.135@example.org,Chennai,Tamil Nadu,Net 30,Under Review,2025-07-11
+VND-0136,NextGen Corporation 136,Facility Management,SIM-GST-0136,nextgen.corporation.136@example.org,Bengaluru,Karnataka,Net 45,Under Review,2024-03-19
+VND-0137,Innovative Corporation 137,Consulting,SIM-GST-0137,innovative.corporation.137@example.net,Mumbai,Maharashtra,Net 60,Active,2026-02-27
+VND-0138,Supreme Consultants 138,Marketing,SIM-GST-0138,supreme.consultants.138@example.com,Kochi,Kerala,Net 15,Under Review,2024-04-21
+VND-0139,Apex Industries 139,Consulting,SIM-GST-0139,apex.industries.139@example.net,Mumbai,Maharashtra,Net 15,Inactive,2022-06-26
+VND-0140,United Associates 140,Consulting,SIM-GST-0140,united.associates.140@example.net,Mysuru,Karnataka,Net 45,Under Review,2022-01-18
+VND-0141,Supreme Corporation 141,Marketing,SIM-GST-0141,supreme.corporation.141@example.net,Kochi,Kerala,Net 15,Under Review,2026-06-25
+VND-0142,Reliable Technologies 142,Facility Management,SIM-GST-0142,reliable.technologies.142@example.net,Mysuru,Karnataka,Net 60,Active,2022-08-08
+VND-0143,Vertex Enterprises 143,Equipment,SIM-GST-0143,vertex.enterprises.143@example.com,Hyderabad,Telangana,Net 15,Active,2025-01-17
+VND-0144,Apex Technologies 144,Marketing,SIM-GST-0144,apex.technologies.144@example.org,Delhi,Delhi,Net 30,Active,2023-11-21
+VND-0145,Smart Consultants 145,Logistics,SIM-GST-0145,smart.consultants.145@example.com,Mumbai,Maharashtra,Net 15,Under Review,2021-12-25
+VND-0146,Smart Consultants 146,Facility Management,SIM-GST-0146,smart.consultants.146@example.org,Jaipur,Rajasthan,Net 30,Active,2024-04-12
+VND-0147,Vertex Technologies 147,Equipment,SIM-GST-0147,vertex.technologies.147@example.org,Bengaluru,Karnataka,Net 60,Inactive,2023-01-25
+VND-0148,Supreme Industries 148,Office Supplies,SIM-GST-0148,supreme.industries.148@example.org,Chennai,Tamil Nadu,Net 45,Under Review,2024-06-27
+VND-0149,Innovative Technologies 149,Equipment,SIM-GST-0149,innovative.technologies.149@example.org,Pune,Maharashtra,Net 60,Inactive,2026-04-08
+VND-0150,Reliable Corporation 150,Marketing,SIM-GST-0150,reliable.corporation.150@example.net,Hyderabad,Telangana,Net 45,Active,2022-03-19
