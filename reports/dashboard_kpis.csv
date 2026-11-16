@@ -1,0 +1,13 @@
+metric,value
+Total Invoices,500
+Total Invoice Value,62633944.91
+Paid Invoices,161
+Paid Amount,20273544.57
+Overdue Invoices,318
+Overdue Amount,40167317.01
+Pending Invoices,21
+Outstanding Amount,42360400.34
+Payment Completion Rate (%),32.2
+Outstanding Percentage (%),67.63
+Average Overdue Days,340.72
+Unmatched Invoices,0

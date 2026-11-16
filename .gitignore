@@ -17,3 +17,7 @@ Desktop.ini
 # Temporary files
 *.log
 *.bak
+
+# Python cache files and folders
+__pycache__/
+*.py[cod]
