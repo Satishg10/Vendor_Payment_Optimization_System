@@ -110,3 +110,21 @@ Documentation and GitHub publishing in progress.
 ## Author
 
 Satish V Gokhale
+
+## Power BI Dashboard Preview
+
+### 1. Overview
+
+![Overview Dashboard](screenshots/01_overview.png)
+
+### 2. Payment Analysis
+
+![Payment Analysis](screenshots/02_payment_analysis.png)
+
+### 3. Vendor Analysis
+
+![Vendor Analysis](screenshots/03_vendor_analysis.png)
+
+### 4. Vendor Overview
+
+![Vendor Overview](screenshots/04_vendor_overview.png)
