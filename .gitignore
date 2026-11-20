@@ -1,6 +1,6 @@
 
 # Excel temporary files
-~$*.xlsx
+~$*.xls
 ~$*.xlsm
 *.tmp
 
@@ -21,3 +21,8 @@ Desktop.ini
 # Python cache files and folders
 __pycache__/
 *.py[cod]
+
+# Python virtual environments
+.venv/
+venv/
+env/
